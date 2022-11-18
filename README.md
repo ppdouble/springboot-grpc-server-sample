@@ -30,6 +30,8 @@ option java_outer_classname = "CityScore";
 > automatically. This annotation should only be added to implementations of 
 > BindableService (GrpcService-ImplBase).
 
+The starter will add service to grpc server automatically.
+
 ## source folder and target folder
 
 ```xml
