@@ -56,3 +56,8 @@ public class CityScoreExceptionHandler {
         ...
 
 ```
+
+## Ref
+
+[gRPC Implementation With Spring Boot](https://medium.com/turkcell/grpc-implementation-with-spring-boot-7d6f98349d27)
+[gRPC Error Handling](https://www.vinsguru.com/grpc-error-handling/)
