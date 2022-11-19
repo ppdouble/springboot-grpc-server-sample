@@ -64,3 +64,6 @@ public class CityScoreExceptionHandler {
 [gRPC Error Handling](https://www.vinsguru.com/grpc-error-handling/)
 
 [gRPC-Spring-Boot-Starter Documentation](https://yidongnan.github.io/grpc-spring-boot-starter/en/)
+
+
+[Status codes and their use in gRPC](https://grpc.github.io/grpc/core/md_doc_statuscodes.html)
